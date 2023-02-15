@@ -12,7 +12,7 @@ function palindrome(str) {
         }
       }
       return true;
-  
+
   }
   
   palindrome("_eye");
